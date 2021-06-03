@@ -1,0 +1,119 @@
+[
+  {
+    "category": "nature",
+    "images": [
+      "acorn.png",
+      "bee.png",
+      "leaf.png",
+      "mushroom.png",
+      "wood.png",
+      "moon.png"
+    ]
+  },
+  {
+    "category": "races",
+    "images": [
+      "racing-car.png",
+      "speedometer.png",
+      "steering-wheel.png",
+      "trophy.png",
+      "brake.png",
+      "car-wheel.png"
+    ]
+  },
+  {
+    "category": "computer",
+    "images": [
+      "computer-monitor.png",
+      "cpu.png",
+      "cpu (2).png",
+      "fan.png",
+      "ssd.png",
+      "graphic-card.png"
+    ]
+  },
+  {
+    "category": "nature4x4",
+    "images": [
+      "acorn.png",
+      "bee.png",
+      "leaf.png",
+      "mushroom.png",
+      "wood.png",
+      "moon.png",
+      "tree.png",
+      "tulip.png"
+    ]
+  },
+  {
+    "category": "races4x4",
+    "images": [
+      "racing-car.png",
+      "speedometer.png",
+      "steering-wheel.png",
+      "trophy.png",
+      "brake.png",
+      "car-wheel.png",
+      "checkered-flag.png",
+      "helmet.png"
+    ]
+  },
+  {
+    "category": "computer4x4",
+    "images": [
+      "computer-monitor.png",
+      "cpu.png",
+      "cpu (2).png",
+      "fan.png",
+      "ssd.png",
+      "graphic-card.png",
+      "joystick.png",
+      "fan (1).png"
+    ]
+  },
+  {
+    "category": "nature5x4",
+    "images": [
+      "acorn.png",
+      "bee.png",
+      "leaf.png",
+      "mushroom.png",
+      "wood.png",
+      "moon.png",
+      "tree.png",
+      "tulip.png",
+      "world.png",
+      "sun.png"
+    ]
+  },
+  {
+    "category": "races5x4",
+    "images": [
+      "racing-car.png",
+      "speedometer.png",
+      "steering-wheel.png",
+      "trophy.png",
+      "brake.png",
+      "car-wheel.png",
+      "checkered-flag.png",
+      "helmet.png",
+      "flagman.png",
+      "traffic-cone.png"
+    ]
+  },
+  {
+    "category": "computer5x4",
+    "images": [
+      "computer-monitor.png",
+      "heatsink.png",
+      "power-supply.png",
+      "fan.png",
+      "round-webcam.png",
+      "graphic-card.png",
+      "joystick.png",
+      "fan (1).png",
+      "keyboard.png",
+      "mouse.png"
+    ]
+  }
+]
